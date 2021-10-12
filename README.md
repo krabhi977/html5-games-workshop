@@ -18,7 +18,7 @@ Would you like to host the workshop in your city? [Contact Belén](https://belen
 
 ## Development
 
-If you want to tinker around or have your own version…
+If you want to tinker around or have your own version.
 
 This project uses [Metalsmith](http://www.metalsmith.io/) to generate a static website out of Markdown files (among others).
 
